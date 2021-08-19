@@ -138,6 +138,11 @@ body{
     padding: 16px 36px;
     cursor: pointer;
 }
+
+
+path.current_floor{
+    opacity: 1;
+}
 /* ./content */
 
 /* footer */
